@@ -1,0 +1,1 @@
+# visual-box-auto-updater
